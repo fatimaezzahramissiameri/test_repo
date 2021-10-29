@@ -3,3 +3,9 @@ body {
 	color: #343434;
 	font-size: 18px;
 }
+
+div {
+	color: #dedede;
+	width: 100px;
+	height: 100px; 
+}
